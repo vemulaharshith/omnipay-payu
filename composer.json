@@ -33,7 +33,7 @@
     },
     "require": {
         "ext-json": "*",
-        "omnipay/common": "^2.5",
+        "omnipay/common": "^3.0.5",
         "openpayu/openpayu_php_sdk": "^2.2"
     },
     "require-dev": {
